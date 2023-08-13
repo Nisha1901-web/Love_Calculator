@@ -25,7 +25,7 @@ let loveScoreFinal = " Your Love Score is " + "<i style='color:green'>" +loveSco
             $(".userNames").text(name1  +" "+  " & " + " " +name2);
             $(".result").html(loveScoreFinal);
             $(".container").slideUp();
-            $("h2").hide();
+            $(".demo").hide();
             $("img").addClass("one");
             $("img").attr('src' , 'https://img.freepik.com/free-photo/world-smile-day-emojis-arrangement_23-2149024495.jpg?w=2000' );
             $("h4").addClass("hidden");
