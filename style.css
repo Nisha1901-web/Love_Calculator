@@ -52,6 +52,10 @@ h2{
     padding-top: 0;
     margin:0 auto 10px
 }
+.demo{
+    font-size: 20px;
+    margin:15px
+}
 
 img{
     width: 10%;
