@@ -1,7 +1,7 @@
 
 let loveScore = Math.random() * 100;
 loveScore = Math.floor(loveScore) + 1;
-let loveScoreFinal = " Your Love Score is " + "<i style='color:green'>" +loveScore + "%" + "</i>";
+let loveScoreFinal = " Your Love Score is " + "<i style='color:green;font-size:5rem'>" +loveScore + "%" + "</i>";
 
     
     function getName(){
