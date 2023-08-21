@@ -91,12 +91,13 @@ h4{
 
 @media(max-width : 600px){
     img{
-        width:20%;
+        width:15%;
     }
     h1{
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
     .result{
         font-size: 2rem;
+        margin-bottom:10px
     }
 }
