@@ -94,13 +94,17 @@ h4{
         width:15%;
     }
     h1{
-        font-size: 2.5rem;
+        font-size: 35px;
     }
     .result{
-        font-size: 2.5rem;
+        font-size: 35px;
         margin-bottom:10px
     }
     .demo{
         font-size:20px;
-        margin:10px
+        margin:10px;
+        padding:15px
+    }
+    .hidden{
+        font-size:2.5rem
 }
